@@ -1,6 +1,6 @@
 {
   "name": "Pflag Chapter Map",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "Application for Car Rental Company.",
   "main": "server.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/loualgo/pflag-chapter-map"
+    "url": "https://github.com/ncthis/deadsimple"
   },
   "keywords": [
     "statis",
