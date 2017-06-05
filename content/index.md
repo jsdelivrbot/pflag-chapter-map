@@ -6,7 +6,7 @@ Still a WIP. For now, you can link external pages in normal Markdown like [this]
 
 ### Changing themes
 You can change the theme from `content\partials\header.html` file. Change the following line's theme attribute to anything you will find on [bowlead](http://bowlead.com). 
-[Deploy](https://github.com/loualgo/pflag-chapter-map/tree/master&c=70130000001xFhx)
+[Deploy](https://heroku.com/deploy?template=https://github.com/loualgo/pflag-chapter-map)
 
 ```html
 <xmp theme="slate" style="display:none;">
